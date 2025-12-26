@@ -59,7 +59,7 @@
 </p>
 
 ---
-
+<!--
 <h2 align="center">Pinned Projects</h2>
 
 <p align="center">
@@ -73,14 +73,14 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=s881215&repo=Image-Based-Localization-GNC" />
   </a>
 </p>
-
+-->
 ---
-
+<!--
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s881215&show_icons=true&rank_icon=github" />
 </p>
-
+-->
 ---
 
 <h2 align="center">Contact</h2>
