@@ -69,6 +69,9 @@
   <a href="https://github.com/s881215/EOS-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=s881215&repo=EOS-Project" />
   </a>
+  <a href="https://github.com/s881215/Image-Based-Localization-GNC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=s881215&repo=Image-Based-Localization-GNC" />
+  </a>
 </p>
 
 ---
